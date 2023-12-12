@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/NimaVahdat/SNN-Framework-/blob/main/logo.png" alt="Description of the image">
+  <img src="https://github.com/NimaVahdat/SNN-Framework-/blob/main/logo.png" alt="Description of the image" width="50%">
 </div>
+
 
 # DeepSNN Framework
 Welcome to DeepSNN, an innovative framework for building Spiking Neural Networks (SNN) designed to cater to the evolving landscape of deep learning. Developed as a project for the Department of Computer Science at the University of Tehran, this framework introduces a fresh approach to constructing deep neural networks with a novel structure.
