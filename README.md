@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[path/to/your/image.png](https://github.com/NimaVahdat/SNN-Framework-/blob/main/logo.png)">
+  <img src="https://github.com/NimaVahdat/SNN-Framework-/blob/main/logo.png" alt="Description of the image">
 </div>
 
 # DeepSNN Framework
