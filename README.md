@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/NimaVahdat/SNN-Framework-/blob/main/logo.png" alt="Description of the image" width="50%">
+  <img src="https://raw.githubusercontent.com/NimaVahdat/SNN-Framework-/main/logo.png" alt="Description of the image" width="50%">
 </div>
 
 
